@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Cible
+  - Couteau
+  - Spawn
+  - RightHand
+  - LeftHand
+  - Dog
+  - Vendeur
+  - Dragon
+  - Passion
+  - Prickly
+  - Star
+  - GoldenFish
+  - Book
+  - DogTarget
+  - Book1
+  - Book2
+  - Book3
+  - Rod1
+  - Rod2
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Player
+  - Terrain
+  - CityStreet
+  - PalasseStreet
+  - NonWalkable
+  - Target
+  - 
+  - Obstacle
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
